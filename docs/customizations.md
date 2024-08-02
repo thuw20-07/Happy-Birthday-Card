@@ -10,9 +10,9 @@ Check it out in this [sample deployment](https://hbd-card.netlify.app/) to see t
 
 ### in Remote Deployment
 
-1. For this, we create a telegraph Article with our message. Go to [Telegraph](https://telegra.ph) and publish an article with your message in it.
+1. For this, we create a telegraph Article with our message. Go to [Telegraph](https://telegra.ph/HAPPY-BIRTHDAY-08-02-51) and publish an article with your message in it.
 
-   Here is a sample for you - https://telegra.ph/Bday-07-24.
+   Here is a sample for you - (https://telegra.ph/HAPPY-BIRTHDAY-08-02-51).
 
 2. Copy the url of the published article. In my case, it is this `https://telegra.ph/Bday-07-24`.
 
